@@ -1,9 +1,9 @@
 [submodule "arduino"]
 	path = arduino
-	url = https://github.com
+	url = https://github.com/MishaelBoss/smart-arctic-greenhouse-arduino.git
 [submodule "backend"]
 	path = backend
-	url = https://github.com
+	url = https://github.com/MishaelBoss/smart-arctic-greenhouse-backend.git
 [submodule "GreenhouseApp"]
 	path = GreenhouseApp
-	url = https://github.com
+	url = https://github.com/MishaelBoss/smart-arctic-greenhouse-GreenhouseApp.git
