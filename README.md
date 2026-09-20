@@ -28,7 +28,7 @@
                           REST / JSON
                                 │
 ┌───────────────────────────────┴────────────────────────────────────────┐
-│                        Avalonia Desktop App (C# .NET 8)                │
+│                        Avalonia Desktop App (C# .NET 10)                │
 │  - Главный экран с индикаторами и статусом                             │
 │  - Панель ручного управления (отправка команд на бэкенд)               │
 │  - LiveCharts график влажности в реальном времени                      │
@@ -51,8 +51,8 @@
 ## 🛠 Технологический стек
 
 - **IoT Firmware:** C++ (Arduino IDE), ESP32, Adafruit SSD1306, DHT, ESP32Servo, ArduinoJson.
-- **Backend:** Python 3.11+, FastAPI, SQLModel, PostgreSQL (`psycopg[binary]`), Pydantic, Uvicorn.
-- **Desktop App:** C# .NET 8.0, Avalonia UI 12.x, CommunityToolkit.Mvvm, LiveChartsCore.SkiaSharpView.Avalonia, Serilog.
+- **Backend:** Python 3.14.6, FastAPI, SQLModel, PostgreSQL (`psycopg[binary]`), Pydantic, Uvicorn.
+- **Desktop App:** C# .NET 10.0, Avalonia UI 12.1.2, CommunityToolkit.Mvvm, LiveChartsCore.SkiaSharpView.Avalonia, Serilog.
 
 ---
 
