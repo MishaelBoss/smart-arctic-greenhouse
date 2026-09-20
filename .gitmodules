@@ -1,0 +1,9 @@
+[submodule "arduino"]
+	path = arduino
+	url = https://github.com
+[submodule "backend"]
+	path = backend
+	url = https://github.com
+[submodule "GreenhouseApp"]
+	path = GreenhouseApp
+	url = https://github.com
